@@ -1,0 +1,1 @@
+int carregarMenuDificuldade(int *dificuldade);
